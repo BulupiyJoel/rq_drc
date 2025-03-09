@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137940773",
+    "project_id": "rqdrc-bde58",
+    "storage_bucket": "rqdrc-bde58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137940773:android:ddfe53a8682a341f0e54cc",
+        "android_client_info": {
+          "package_name": "com.example.rq_drc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkAb8etFse47HbmBN-5Gt1-zkpwTnq7Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
